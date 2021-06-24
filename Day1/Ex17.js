@@ -1,0 +1,10 @@
+let a=30;
+let b=90;
+let arr=[1,2,3];
+let add = (a,b)=>  a+b;
+let mul = (a,b)=>a*b;
+let del=(arr)=> delete arr[0];
+del(arr);
+console.log("Deleting elemeny at 0 index: "+arr[0]);
+console.log(add(a,b));
+console.log(mul(a,b));

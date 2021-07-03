@@ -1,0 +1,73 @@
+.weather {
+    margin-top: 20px;
+    border: 3px dashed grey;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    width: max-content;
+    padding: 0px 20px 20px 20px;
+    margin-left: 25%;
+    background-color: rgb(161, 166, 235);
+  }
+  .weather .title {
+    font-size: 4rem;
+  align-content: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .weather form {
+    margin-top: 30px;
+  }
+  .weather form select {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px dashed rgb(4, 18, 26);
+    margin-right: 10px;
+    background-color: rgba(15, 85, 126, 0.8);
+    border-radius: 20px;
+    border: 2px solid black;
+  }
+  .weather label {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px dashed rgb(2, 57, 88);
+    margin-right: 10px;
+  }
+  
+  .weather form select:focus {
+    outline: none;
+    border-bottom: 3px dashed rgb(2, 57, 88);
+  }
+  
+  .weather .getweather {
+    margin-left: 5px;
+    padding: 8px;
+    font-size: 1 rem;
+    border: none;
+    border-radius: 20px;
+    border: 2px solid black;
+    background: rgb(2, 57, 88, 0.8);
+    cursor: pointer;
+    color: whitesmoke;
+  }
+  
+  .weather .getweather:hover {
+    background: transparent;
+    color: black;
+  }
+  
+  .weather .getweather:focus {
+    outline: none;
+  }
+  h1{
+    color:whitesmoke;
+    font-style: inherit;
+  }
+  h2{
+    color:white;
+    border:dotted;
+    border-color: rgba(6, 51, 77, 0.8);
+    border: 2px dotted black;
+    border-radius: 10px;
+  }
+  h3{
+    color:white;
+  }

@@ -1,0 +1,42 @@
+
+h2{
+    font-family: Sans-serif; 
+    font-size: 24px;     
+    font-style: normal; 
+    font-weight: bold; 
+    color: blue;
+    text-align: center; 
+    text-decoration: underline
+   }
+   form{
+    font-family: verdana; 
+    color:black; 
+    font-size: 16px; 
+    font-style: normal;
+    
+    background: linear-gradient(to bottom, #dce6e9 0%, #e6d8df 100%);  
+    border-collapse: collapse; 
+    border: 2px solid #000000;
+    border-style: solid;
+    width:500px;
+    height:300px;
+    align-self:center;
+     
+   }
+   table.inner{
+    border: 10px
+   }
+   input[type=text], input[type=email], input[type=number]{
+    width: 90%;
+    padding: 6px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+   }
+   button{
+    width: 50%;
+    padding: 8px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    color:blue;
+   }
+   

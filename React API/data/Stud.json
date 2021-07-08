@@ -1,0 +1,60 @@
+{
+  "student": [
+    {
+      "name": "Divya P",
+      "dob": "3",
+      "email": "divyadivya6497@gmail.com",
+      "city": "America",
+      "id": 1
+    },
+    {
+      "name": "Divya P",
+      "dob": "3",
+      "email": "divyadivya6497@gmail.com",
+      "city": "America",
+      "id": 2
+    },
+    {
+      "name": "Viji",
+      "dob": "3",
+      "email": "divyadivya6497@gmail.com",
+      "city": "America",
+      "id": 3
+    },
+    {
+      "name": "Vijayalakshmi",
+      "dob": "5",
+      "email": "vi@gmail.com",
+      "city": "India",
+      "id": 4
+    },
+    {
+      "name": "krihti",
+      "dob": "3",
+      "email": "divya64@outlook.com",
+      "city": "London",
+      "id": 5
+    },
+    {
+      "name": "Divya P",
+      "dob": "3/3/97",
+      "email": "divyadivya6497@gmail.com",
+      "city": "India",
+      "id": 6
+    },
+    {
+      "name": "Manisha J",
+      "dob": "4/4/97",
+      "email": "myhour.viji@gmail.com",
+      "city": "India",
+      "id": 7
+    },
+    {
+      "name": "Divya P",
+      "dob": "3/3/78",
+      "email": "divyadivya6497@gmail.com",
+      "city": -1,
+      "id": 8
+    }
+  ]
+}
